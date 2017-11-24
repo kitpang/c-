@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\bin\Debug\ClassesObjectsFields_CarsExercise.exe.config
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\bin\Debug\ClassesObjectsFields_CarsExercise.exe
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\bin\Debug\ClassesObjectsFields_CarsExercise.pdb
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\obj\Debug\ClassesObjectsFields_CarsExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\obj\Debug\ClassesObjectsFields_CarsExercise.exe
+C:\Users\student\Desktop\C#\ClassesObjectsFields_CarsExercise\ClassesObjectsFields_CarsExercise\obj\Debug\ClassesObjectsFields_CarsExercise.pdb

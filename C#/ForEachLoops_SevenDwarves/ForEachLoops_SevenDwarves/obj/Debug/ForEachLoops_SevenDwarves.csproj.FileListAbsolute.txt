@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\bin\Debug\ForEachLoops_SevenDwarves.exe.config
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\bin\Debug\ForEachLoops_SevenDwarves.exe
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\bin\Debug\ForEachLoops_SevenDwarves.pdb
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\obj\Debug\ForEachLoops_SevenDwarves.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\obj\Debug\ForEachLoops_SevenDwarves.exe
+C:\Users\student\Desktop\C#\ForEachLoops_SevenDwarves\ForEachLoops_SevenDwarves\obj\Debug\ForEachLoops_SevenDwarves.pdb

@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\C#\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+C:\Users\student\Desktop\C#\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\C#\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.pdb
+C:\Users\student\Desktop\C#\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\C#\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\bin\Debug\ErrorHandling_Exercise.exe.config
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\bin\Debug\ErrorHandling_Exercise.exe
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\bin\Debug\ErrorHandling_Exercise.pdb
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\obj\Debug\ErrorHandling_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\obj\Debug\ErrorHandling_Exercise.exe
+C:\Users\student\Desktop\C#\ErrorHandling_Exercise\ErrorHandling_Exercise\obj\Debug\ErrorHandling_Exercise.pdb
